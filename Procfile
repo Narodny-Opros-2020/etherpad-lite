@@ -1,1 +1,2 @@
-web: bin/run.sh
+start: cd src
+web: ../bin/run.sh
